@@ -18,11 +18,14 @@ html {
 }
 
 body {
-	background-image:url"https://s-media-cache-ak0.pinimg.com/originals/d5/7c/64/d57c644df6e3636d800b702bd3fe5c85.jpg"
-  font; 18px/1.4 $helvetica {
-  color: $darkGray;
+background: url(https://image.freepik.com/free-vector/nature-background-of-a-grassy-landscape_1048-1305.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+font: 14px/1.4 $courier;
+color: #001a33;
 }
-}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
