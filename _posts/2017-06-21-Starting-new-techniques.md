@@ -32,7 +32,7 @@ published: true
   </tr>
 </table>
 
-<iframe width= 100% height="315" src="https://www.youtube.com/embed/xsZLVN2iriE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xsZLVN2iriE" frameborder="0" allowfullscreen></iframe>
 
 <table>
   <tr>
@@ -42,7 +42,7 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>For the starter I managed to remember the len() function so that I was able to complete the task in the given time frame. My repository is very basic but I have learnt that by remembering little bits of code, I can improve my repository quickly and effectively. </td>
+    <td>For the starter I managed to remember the len() function so that I was able to complete the task in the given time frame. My repository is very basic but I have learnt that by remembering little bits of code, I can improve my repository quickly and effectively. As you can see, I successfully managed to add a random video to my blog! </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
