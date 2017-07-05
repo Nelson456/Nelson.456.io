@@ -17,13 +17,14 @@ html {
   font-size: 100%;
 }
 
-	table, th, td {
-   border: 1px solid black;
+table {
+    border-collapse: collapse;
 }
-th {
-    background-color: white;
-    
+
+table, th, td {
+    border: 1px solid black;
 }
+
 body {
 background: url(https://image.freepik.com/free-vector/nature-background-of-a-grassy-landscape_1048-1305.jpg);
 background-repeat: no-repeat;
