@@ -48,7 +48,7 @@ published: true
   </tr>
   <tr>
     <td>Not much limited my learning throughout year 9 and so I currently don't need to work on any particular habits for the upcoming term.
-Here is an example of what I have created in year 9:</td>
+</td>
   
   </tr>
   <tr>
@@ -56,7 +56,7 @@ Here is an example of what I have created in year 9:</td>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>In year 10 I will strive to accomplish new challenges and expand my knowledge of coding.
+    <td>In year 10 I will strive to accomplish new challenges and expand my knowledge of coding. Here is an example of what I have created in year 9:
 </td>
   </tr>
 </table>
