@@ -49,9 +49,10 @@ published: true
   <tr>
     <td>Not much limited my learning throughout year 9 and so I currently don't need to work on any particular habits for the upcoming term.
 Here is an example of what I have created in year 9:</td>
+  <script src="//repl.it/embed/H65d/18.js"></script>
   </tr>
   <tr>
-  <script src="//repl.it/embed/H65d/18.js"></script>
+  
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
