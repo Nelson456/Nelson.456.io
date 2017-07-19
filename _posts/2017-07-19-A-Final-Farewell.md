@@ -51,6 +51,7 @@ published: true
 Here is an example of what I have created in year 9:</td>
   </tr>
   <tr>
+  <script src="//repl.it/embed/H65d/18.js"></script>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
